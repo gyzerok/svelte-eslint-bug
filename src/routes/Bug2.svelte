@@ -1,0 +1,6 @@
+<div>
+	foo
+	{#if true}
+		{' '}bar
+	{/if}
+</div>
